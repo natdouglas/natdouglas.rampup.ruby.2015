@@ -1,4 +1,4 @@
-# natdouglas.github.io
+# natdouglas.natdouglas.rampup.ruby.2015
 RampUp Ruby 2015
 
 06-Apr-15: lab3 assignment complete.  To run, comment/uncomment "=begin" and "=end" lines  
